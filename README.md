@@ -10,7 +10,7 @@ It evaluates members across multiple performance indicators to assess their over
 
 ## Dashboard Preview
 
-![Leadership Readiness Dashboard](images/dashboard.png)
+![Leadership Readiness Dashboard](dashboard.png)
 
 ## Key Performance Indicators
 - **Number of Members:** 13
