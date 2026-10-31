@@ -1,15 +1,17 @@
 # Communication Committee Leadership Readiness Analysis
 
 ## Project Overview
-This project uses Microsoft Excel to analyze the leadership readiness of 13 members of a Communication Committee. It evaluates members across multiple performance indicators to assess their leadership potential, technical skills, and overall performance.
+This project analyzes the leadership readiness and performance of 13 members of a student activity's Communication Committee using Microsoft Excel.
+
+It evaluates members across multiple performance indicators to assess their overall performance, skills, and leadership potential.
 
 ## Tools Used
 - Microsoft Excel
-- Excel formulas and data analysis
-- Data visualization and dashboard design
+- Data Analysis
+- Data Visualization
+- Excel Dashboard
 
-## Dashboard Overview
-The interactive dashboard provides an overview of members' performance and leadership readiness.
+## Dashboard Preview
 
 ![Leadership Readiness Dashboard](images/dashboard.png)
 
@@ -30,11 +32,10 @@ The dashboard includes:
 - Leadership Potential vs. Final Score
 - Individual Member Filtering
 
-## Workbook Structure
-- **Data:** Source data for the analysis.
-- **Evaluation:** Member evaluation data.
-- **Analysis:** Analysis supporting the dashboard.
-- **Dashboard:** Visual presentation of the results.
+## Data Privacy
+The original Excel workbook is not included in this repository because it contains personal information and internal performance evaluations of real student activity members.
+
+To protect their privacy, the names displayed in the dashboard preview have been replaced with generic labels (Member 01, Member 02, etc.).
 
 ## Project Objective
-The goal is to transform member evaluation data into actionable insights that support performance assessment and help identify leadership potential within a student activity committee.
+The goal of this project is to transform member evaluation data into meaningful insights through data analysis and visualization, supporting performance assessment and leadership potential identification within a student activity committee.
