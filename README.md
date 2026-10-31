@@ -7,9 +7,6 @@ It evaluates members across multiple performance indicators to assess their over
 
 ## Tools Used
 - Microsoft Excel
-- Data Analysis
-- Data Visualization
-- Excel Dashboard
 
 ## Dashboard Preview
 
