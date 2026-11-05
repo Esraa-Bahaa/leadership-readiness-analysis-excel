@@ -1,7 +1,7 @@
-# Communication Committee Leadership Readiness Analysis
+#Student Activity Committee Leadership Readiness Analysis
 
 ## Project Overview
-This project analyzes the leadership readiness and performance of 13 members of a student activity's Communication Committee using Microsoft Excel.
+This project analyzes the leadership readiness and performance of 13 members of a student activity's Committee using Microsoft Excel.
 
 It evaluates members across multiple performance indicators to assess their overall performance, skills, and leadership potential.
 
